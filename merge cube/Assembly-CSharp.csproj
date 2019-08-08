@@ -100,6 +100,8 @@
      <Compile Include="Assets\MergeCubeSDK\Tools\Recording\Scripts\RecordingManager.cs" />
      <Compile Include="Assets\MergeCubeSDK\Tools\ScanToBeginHelper\Scripts\TrackOnce.cs" />
      <Compile Include="Assets\Script\Controller.cs" />
+     <Compile Include="Assets\Script\Ghost_AI.cs" />
+     <Compile Include="Assets\Script\Points.cs" />
      <None Include="Assets\Vuforia\Shaders\ColoredLines.shader" />
      <None Include="Assets\Vuforia\Shaders\CameraDiffuse.shader" />
      <None Include="Assets\Vuforia\Shaders\VertexLitWithZ.shader" />
